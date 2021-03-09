@@ -1,5 +1,4 @@
-# PowerShell
-ProxyLogonHashes.ps1
+# ProxyLogonHashes.ps1
 Checks for .aspx Hashes of exploit from CVE-2021-26855, 26858, 26857, and 27065.
 
 1) Hashes from Microsoft (sha256):  https://www.microsoft.com/security/blog/2021/03/02/hafnium-targeting-exchange-servers/
