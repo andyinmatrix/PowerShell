@@ -12,12 +12,10 @@ Checks for suspicious.aspx Hashes of exploit from CVE-2021-26855, 26858, 26857, 
 	811157f9c7003ba8d17b45eb3cf09bef2cecd2701cedb675274949296a6a183d
 	1631a90eb5395c4e19c7dbcbf611bbe6444ff312eb7937e286e4637cb9e72944
 2) Hashes from FireEyd (MD5): https://www.fireeye.com/blog/threat-research/2021/03/detection-response-to-exploitation-of-microsoft-exchange-zero-day-vulnerabilities.html
-	
 	4b3039cf227c611c45d2242d1228a121
 	0fd9bffa49c76ee12e51e3b8ae0609ac
 	79eb217578bed4c250803bd573b10151
 3) Hashes from Volexity: https://www.volexity.com/blog/2021/03/02/active-exploitation-of-microsoft-exchange-zero-day-vulnerabilities/
-	
 	893cd3583b49cb706b3e55ecb2ed0757b977a21f5c72e041392d1256f31166e2
 	406b680edc9a1bb0e2c7c451c56904857848b5f15570401450b73b232ff38928
 	2fa06333188795110bba14a482020699a96f76fb1ceb80cbfa2df9d3008b5b0a
